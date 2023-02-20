@@ -1,13 +1,12 @@
-version: '3.9'
+version: '3'
 
 services:
   nodejs:
     container_name: nodejs
     image: node:alpine
     env_file: .env
-    #remplacer le port externe (3333) par le port alloué par Docketu (de 1024 à 65000)
     ports:
-      - 3333:3000
+      - 64999:3000
     command: npm start
     working_dir: /usr/src/app
     volumes:
