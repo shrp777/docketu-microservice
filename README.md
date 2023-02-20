@@ -1,6 +1,6 @@
 # Docketu Micro Service
 
-Projet de démonstration pour la mise en place d'un micro service sur le serveur Docketu de l'Université de Lorraine.
+Projet de démonstration pour la mise en place d'un micro service basé sur Node.js sur le serveur Docketu de l'Université de Lorraine.
 
 - Créer un fichier .env à la racine, basé sur .env.model
 
