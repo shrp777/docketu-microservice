@@ -18,6 +18,8 @@ Projet de démonstration pour la mise en place d'un micro service sur le serveur
 
     `curl -i http(s)://docketu.iutnc.univ-lorraine.fr:64999`
 
+- Informations complémentaires dans ./docketu.pdf
+
 --
 
 <img src="https://sherpa.one/images/sherpa-logotype.png" width="120px">
