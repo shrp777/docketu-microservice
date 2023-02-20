@@ -10,7 +10,10 @@ Projet de démonstration pour la mise en place d'un micro service sur le serveur
 
 - Installation des dépendances NPM dans le service Docker Node.js :
 
-    `docker compose run --rm nodejs npm install`
+    `docker-compose run --rm nodejs npm install`
+
+- Démarrage des services :
+    `docker-compose up -d`
 
 - Consultation du service :
 
